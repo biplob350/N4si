@@ -2,7 +2,7 @@
   <img src="https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub!" alt="Banner" width="100%" />
 </div>
 
-<h1 align="center">🌟 Welcome! I’m [Your Name] 🌟</h1>
+<h1 align="center">🌟 Welcome! I’m [RK Biplob] 🌟</h1>
 
 <p align="center">
   🚀 MERN Stack Developer | 🎨 Web Enthusiast | 🛠️ Problem-Solver | 💡 Lifelong Learner
