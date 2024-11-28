@@ -51,4 +51,7 @@
 <div align="center">
   <h3>Let’s build the future, one line of code at a time! ✨</h3>
   <img src="https://via.placeholder.com/300x150.png?text=Keep+Coding!" alt="Keep Coding!" width="50%"/>
+  <br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
