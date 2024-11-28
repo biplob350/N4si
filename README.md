@@ -73,5 +73,5 @@
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Happy+Coding!" alt="Happy Coding!" width="60%" />
+  <img src="https://xbsoftware.com/wp-content/uploads/2020/09/happy-programmers-day.jpg" alt="Happy Coding!" width="80%" />
 </div>
